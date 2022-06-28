@@ -1,2 +1,2 @@
-#!/ban/bash
+#!/bin/bash
 paste - - | cut -f 1
